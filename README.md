@@ -8,7 +8,7 @@ This workshop aims to explore the intersections of testing and securing UIs in C
 
 ### Registration
 
-The workshop will be held on **```Saturday, May 10th```** from **```10:00am-2:15pm```** in **```Room TBD```**. Registration for this workshop is free and open to all participants interested in this topic. The workshop will be hybrid, allowing for participants to join in-person and remotely via Zoom (link to be shared with registrants). Please complete the [registration link](https://forms.gle/oX2J1xqQJNvNbc3h8) to sign up for an attendance option and provide more details for the conference.
+The workshop will be held on **```Saturday, May 10th```** from **```10:00am-2:15pm```** in [**```Torgerson 1100```**](https://maps.app.goo.gl/st6eZJrdTqzouBNF9). Registration for this workshop is free and open to all participants interested in this topic. The workshop will be hybrid, allowing for participants to join in-person and remotely via Zoom (link to be shared with registrants). Please complete the [registration link](https://forms.gle/oX2J1xqQJNvNbc3h8) to sign up for an attendance option and provide more details for the conference.
 
 ### Schedule
 
@@ -27,7 +27,8 @@ A brief overview of the schedule is below:
   <tr><td>2:00 - 2:15</td><td>Closing</td></tr>
 </table>
 
-* _Attendees will be able to start arriving at 9:45._
+* _Attendees will be able to start arriving at 9:30._
+* **Location**: 620 Drillfield Dr, Blacksburg, VA 24060
 
 ### Keynote Speaker
 
