@@ -30,11 +30,21 @@ A brief overview of the schedule is below:
 * _Attendees will be able to start arriving at 9:30._
 * **Location**: 620 Drillfield Dr, Blacksburg, VA 24060
 
-### Keynote Speaker
+### Vitual Keynote Speaker
 
-<p class="title"><b>Andrew "Pandy" Knight</b></p>
+<table>
+<tr>
+    <td>
+        <div>
+		<img src="./assets/images/andy_django_profile_zoom_small.jpg" style="height: 300px; object-fit: contain;">
+		<p class="title"><b>Andrew "Pandy" Knight</b></p>
+	</div>
+    </td>
+</tr>
+</table>
 
-Speaker Bio and Details TBD.
+Andrew Knight, also known as “Pandy,” is the Automation Panda. He’s a software quality champion who loves to help people build better quality software. Currently, he works as the Senior Director of Product Management at Cycle Labs, focusing on building an excellent test automation platform for enterprise systems. Previously, Pandy spent a decade as a SDET building solutions to testing problems at various tech companies. He also previously led Developer Relations and Test Automation University at Applitools. As an avid supporter of open source software, Pandy is a Playwright Ambassador as well as the lead developer for Boa Constrictor, the .NET Screenplay Pattern. On the side, he is writing a book on software testing with Manning Publications. Apart from software, Pandy spends time with his family, his French Bulldog, and his vintage Volkswagens. Check out his tech blog at [AutomationPanda.com](https://automationpanda.com/), and follow him on Twitter at [@AutomationPanda](https://x.com/automationpanda).
+
 
 ### Organizers
 
