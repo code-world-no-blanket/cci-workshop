@@ -1,4 +1,4 @@
-# 2025 Workshop on Testing and Securing User Interfaces in CI/CD Pipelines
+# Testing and Securing User Interfaces in CI/CD Pipelines
 
 User interfaces (UIs) define the modes through which humans interact with software-based systems, affecting product quality and user experiences. To verify the behavior of software, UI testing is crucial to inspect visual elements and ensure that software function as intended. However, UI testing is challenging---and an increasing number of security vulnerabilities can be exploited through UIs. Further, rapid release processes, such as continuous integration and continuous deployment (CI/CD), are essential in modern software development to integrate, test, and deploy software chages to users efficiently. However, testing and securing UIs in CI/CD is challenging due to the complexity of user interfaces. As UI-based attacks become more prevalent and complex, novel solutions are needed to assess the security of UIs in rapid release environments.
 
